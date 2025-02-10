@@ -18,4 +18,18 @@
 
 ✅ Quick Sort
 
+✅ Reverse String 
+
+✅ Reverse Integer
+
+✅ Palindrome
+
+✅ Fibonacci Series
+
+✅ Unique Character
+
+✅ Compare Two Arrays
+
+✅ Rotate Array
+
 
